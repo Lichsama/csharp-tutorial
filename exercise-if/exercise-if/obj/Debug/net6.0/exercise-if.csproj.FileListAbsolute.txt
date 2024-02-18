@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\bin\Debug\net6.0\exercise-if.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\bin\Debug\net6.0\exercise-if.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\bin\Debug\net6.0\exercise-if.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\bin\Debug\net6.0\exercise-if.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\bin\Debug\net6.0\exercise-if.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\refint\exercise-if.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\exercise-if.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\exercise-if\exercise-if\obj\Debug\net6.0\ref\exercise-if.dll

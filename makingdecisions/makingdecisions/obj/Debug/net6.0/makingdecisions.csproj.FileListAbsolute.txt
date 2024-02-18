@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\bin\Debug\net6.0\makingdecisions.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\bin\Debug\net6.0\makingdecisions.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\bin\Debug\net6.0\makingdecisions.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\bin\Debug\net6.0\makingdecisions.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\bin\Debug\net6.0\makingdecisions.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\refint\makingdecisions.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\makingdecisions.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\makingdecisions\makingdecisions\obj\Debug\net6.0\ref\makingdecisions.dll

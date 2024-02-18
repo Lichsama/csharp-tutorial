@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\bin\Debug\net6.0\nestedif.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\bin\Debug\net6.0\nestedif.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\bin\Debug\net6.0\nestedif.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\bin\Debug\net6.0\nestedif.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\bin\Debug\net6.0\nestedif.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\refint\nestedif.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\nestedif.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\nestedif\nestedif\obj\Debug\net6.0\ref\nestedif.dll
