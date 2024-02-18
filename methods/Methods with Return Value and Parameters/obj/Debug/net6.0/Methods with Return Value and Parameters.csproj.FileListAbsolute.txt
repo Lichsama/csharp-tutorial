@@ -1,0 +1,14 @@
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\bin\Debug\net6.0\Methods with Return Value and Parameters.exe
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\bin\Debug\net6.0\Methods with Return Value and Parameters.deps.json
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\bin\Debug\net6.0\Methods with Return Value and Parameters.runtimeconfig.json
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\bin\Debug\net6.0\Methods with Return Value and Parameters.dll
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\bin\Debug\net6.0\Methods with Return Value and Parameters.pdb
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.AssemblyInfoInputs.cache
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.AssemblyInfo.cs
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.csproj.CoreCompileInputs.cache
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.dll
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\refint\Methods with Return Value and Parameters.dll
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.pdb
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\Methods with Return Value and Parameters.genruntimeconfig.cache
+C:\Users\skrll\source\repos\Methods with Return Value and Parameters\Methods with Return Value and Parameters\obj\Debug\net6.0\ref\Methods with Return Value and Parameters.dll
