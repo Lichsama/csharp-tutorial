@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\bin\Debug\net6.0\enhanced-if-challenge.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\bin\Debug\net6.0\enhanced-if-challenge.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\bin\Debug\net6.0\enhanced-if-challenge.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\bin\Debug\net6.0\enhanced-if-challenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\bin\Debug\net6.0\enhanced-if-challenge.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\refint\enhanced-if-challenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\enhanced-if-challenge.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\enhanced-if-challenge\enhanced-if-challenge\obj\Debug\net6.0\ref\enhanced-if-challenge.dll

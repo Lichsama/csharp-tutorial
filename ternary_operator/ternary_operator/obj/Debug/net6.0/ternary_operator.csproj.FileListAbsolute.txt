@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\bin\Debug\net6.0\ternary_operator.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\bin\Debug\net6.0\ternary_operator.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\bin\Debug\net6.0\ternary_operator.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\bin\Debug\net6.0\ternary_operator.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\bin\Debug\net6.0\ternary_operator.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\refint\ternary_operator.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ternary_operator.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ternary_operator\ternary_operator\obj\Debug\net6.0\ref\ternary_operator.dll

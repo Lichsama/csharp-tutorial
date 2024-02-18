@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\bin\Debug\net6.0\if-state-exercise.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\bin\Debug\net6.0\if-state-exercise.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\bin\Debug\net6.0\if-state-exercise.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\bin\Debug\net6.0\if-state-exercise.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\bin\Debug\net6.0\if-state-exercise.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\refint\if-state-exercise.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\if-state-exercise.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\if-state-exercise\if-state-exercise\obj\Debug\net6.0\ref\if-state-exercise.dll
