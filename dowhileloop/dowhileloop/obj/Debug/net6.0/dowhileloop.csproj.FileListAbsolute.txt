@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\bin\Debug\net6.0\dowhileloop.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\bin\Debug\net6.0\dowhileloop.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\bin\Debug\net6.0\dowhileloop.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\bin\Debug\net6.0\dowhileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\bin\Debug\net6.0\dowhileloop.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\refint\dowhileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\dowhileloop.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\dowhileloop\dowhileloop\obj\Debug\net6.0\ref\dowhileloop.dll

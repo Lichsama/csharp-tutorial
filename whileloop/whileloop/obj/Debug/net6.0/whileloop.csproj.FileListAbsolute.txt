@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\bin\Debug\net6.0\whileloop.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\bin\Debug\net6.0\whileloop.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\bin\Debug\net6.0\whileloop.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\bin\Debug\net6.0\whileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\bin\Debug\net6.0\whileloop.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\refint\whileloop.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\whileloop.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\whileloop\whileloop\obj\Debug\net6.0\ref\whileloop.dll
