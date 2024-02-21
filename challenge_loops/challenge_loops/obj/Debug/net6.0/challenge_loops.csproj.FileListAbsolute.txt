@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\bin\Debug\net6.0\challenge_loops.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\bin\Debug\net6.0\challenge_loops.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\bin\Debug\net6.0\challenge_loops.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\bin\Debug\net6.0\challenge_loops.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\bin\Debug\net6.0\challenge_loops.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\refint\challenge_loops.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\challenge_loops.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\challenge_loops\challenge_loops\obj\Debug\net6.0\ref\challenge_loops.dll
