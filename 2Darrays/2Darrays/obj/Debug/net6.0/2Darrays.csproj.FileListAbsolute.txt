@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\bin\Debug\net6.0\2Darrays.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\bin\Debug\net6.0\2Darrays.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\bin\Debug\net6.0\2Darrays.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\bin\Debug\net6.0\2Darrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\bin\Debug\net6.0\2Darrays.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\refint\2Darrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\2Darrays.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\2Darrays\2Darrays\obj\Debug\net6.0\ref\2Darrays.dll

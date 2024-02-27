@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\bin\Debug\net6.0\BasicsOfArrays.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\bin\Debug\net6.0\BasicsOfArrays.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\bin\Debug\net6.0\BasicsOfArrays.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\bin\Debug\net6.0\BasicsOfArrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\bin\Debug\net6.0\BasicsOfArrays.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\refint\BasicsOfArrays.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\BasicsOfArrays.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\BasicsOfArrays\BasicsOfArrays\obj\Debug\net6.0\ref\BasicsOfArrays.dll

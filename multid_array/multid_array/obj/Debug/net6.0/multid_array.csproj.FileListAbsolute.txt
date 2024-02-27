@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\bin\Debug\net6.0\multid_array.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\bin\Debug\net6.0\multid_array.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\bin\Debug\net6.0\multid_array.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\bin\Debug\net6.0\multid_array.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\bin\Debug\net6.0\multid_array.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\refint\multid_array.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\multid_array.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\multid_array\multid_array\obj\Debug\net6.0\ref\multid_array.dll
