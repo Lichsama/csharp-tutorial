@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\refint\ArraysAsParameters.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ref\ArraysAsParameters.dll

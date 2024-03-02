@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\refint\WhyParams.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\WhyParams\WhyParams\obj\Debug\net6.0\ref\WhyParams.dll

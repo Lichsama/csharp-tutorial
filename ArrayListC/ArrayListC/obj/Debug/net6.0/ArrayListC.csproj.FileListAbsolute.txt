@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\bin\Debug\net6.0\ArrayListC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\bin\Debug\net6.0\ArrayListC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\bin\Debug\net6.0\ArrayListC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\bin\Debug\net6.0\ArrayListC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\bin\Debug\net6.0\ArrayListC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\refint\ArrayListC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ArrayListC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\ArrayListC\ArrayListC\obj\Debug\net6.0\ref\ArrayListC.dll
