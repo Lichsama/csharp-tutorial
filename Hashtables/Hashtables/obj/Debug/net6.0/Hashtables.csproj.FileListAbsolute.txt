@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\refint\Hashtables.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\Hashtables\Hashtables\obj\Debug\net6.0\ref\Hashtables.dll

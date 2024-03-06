@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\bin\Debug\net6.0\DictonariesDemo.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\bin\Debug\net6.0\DictonariesDemo.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\bin\Debug\net6.0\DictonariesDemo.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\bin\Debug\net6.0\DictonariesDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\bin\Debug\net6.0\DictonariesDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\refint\DictonariesDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\DictonariesDemo.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DictonariesDemo\DictonariesDemo\obj\Debug\net6.0\ref\DictonariesDemo.dll

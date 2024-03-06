@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\bin\Debug\net6.0\StacksDemo.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\bin\Debug\net6.0\StacksDemo.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\bin\Debug\net6.0\StacksDemo.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\bin\Debug\net6.0\StacksDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\bin\Debug\net6.0\StacksDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\refint\StacksDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\StacksDemo.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\StacksDemo\StacksDemo\obj\Debug\net6.0\ref\StacksDemo.dll
