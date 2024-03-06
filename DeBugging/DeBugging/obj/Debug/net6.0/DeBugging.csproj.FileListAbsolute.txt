@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\bin\Debug\net6.0\DeBugging.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\bin\Debug\net6.0\DeBugging.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\bin\Debug\net6.0\DeBugging.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\bin\Debug\net6.0\DeBugging.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\bin\Debug\net6.0\DeBugging.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\refint\DeBugging.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\DeBugging.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\DeBugging\DeBugging\obj\Debug\net6.0\ref\DeBugging.dll
