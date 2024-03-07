@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\bin\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\refint\InheritanceChallenge.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\InheritanceChallenge.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InheritanceChallenge\InheritanceChallenge\obj\Debug\net6.0\ref\InheritanceChallenge.dll

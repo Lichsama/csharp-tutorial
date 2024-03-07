@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\bin\Debug\net6.0\ImheritanceC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\bin\Debug\net6.0\ImheritanceC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\bin\Debug\net6.0\ImheritanceC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\bin\Debug\net6.0\ImheritanceC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\bin\Debug\net6.0\ImheritanceC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\refint\ImheritanceC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ImheritanceC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ImheritanceC\ImheritanceC\obj\Debug\net6.0\ref\ImheritanceC.dll
