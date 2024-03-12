@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumerableAndIEnumeratorDemo.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumerableAndIEnumeratorDemo.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumerableAndIEnumeratorDemo.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\bin\Debug\net6.0\IEnumerableAndIEnumeratorDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\refint\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\IEnumerableAndIEnumeratorDemo.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\IEnumerableAndIEnumeratorDemo\IEnumerableAndIEnumeratorDemo\obj\Debug\net6.0\ref\IEnumerableAndIEnumeratorDemo.dll
