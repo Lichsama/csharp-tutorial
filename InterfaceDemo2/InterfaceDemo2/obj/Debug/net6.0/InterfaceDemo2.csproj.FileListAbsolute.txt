@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\refint\InterfaceDemo2.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\ref\InterfaceDemo2.dll

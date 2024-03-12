@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\refint\InterfaceDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\InterfaceDemo\InterfaceDemo\obj\Debug\net6.0\ref\InterfaceDemo.dll
