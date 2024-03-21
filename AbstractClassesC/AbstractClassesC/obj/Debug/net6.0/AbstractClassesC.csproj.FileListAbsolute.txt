@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\bin\Debug\net6.0\AbstractClassesC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\bin\Debug\net6.0\AbstractClassesC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\bin\Debug\net6.0\AbstractClassesC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\bin\Debug\net6.0\AbstractClassesC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\bin\Debug\net6.0\AbstractClassesC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\refint\AbstractClassesC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\AbstractClassesC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\AbstractClassesC\AbstractClassesC\obj\Debug\net6.0\ref\AbstractClassesC.dll
