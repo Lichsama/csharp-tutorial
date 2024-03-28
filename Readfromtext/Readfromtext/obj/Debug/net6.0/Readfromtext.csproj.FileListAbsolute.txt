@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\bin\Debug\net6.0\Readfromtext.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\bin\Debug\net6.0\Readfromtext.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\bin\Debug\net6.0\Readfromtext.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\bin\Debug\net6.0\Readfromtext.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\bin\Debug\net6.0\Readfromtext.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\refint\Readfromtext.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\Readfromtext.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Readfromtext\Readfromtext\obj\Debug\net6.0\ref\Readfromtext.dll
