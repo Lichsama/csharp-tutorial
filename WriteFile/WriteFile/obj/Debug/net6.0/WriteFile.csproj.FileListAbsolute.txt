@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\bin\Debug\net6.0\WriteFile.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\bin\Debug\net6.0\WriteFile.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\bin\Debug\net6.0\WriteFile.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\bin\Debug\net6.0\WriteFile.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\bin\Debug\net6.0\WriteFile.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\refint\WriteFile.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\WriteFile.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WriteFile\WriteFile\obj\Debug\net6.0\ref\WriteFile.dll
