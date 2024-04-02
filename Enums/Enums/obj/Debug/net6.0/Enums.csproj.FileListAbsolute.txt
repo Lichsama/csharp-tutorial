@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll

@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\bin\Debug\net6.0\RegularExpressionS.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\bin\Debug\net6.0\RegularExpressionS.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\bin\Debug\net6.0\RegularExpressionS.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\bin\Debug\net6.0\RegularExpressionS.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\bin\Debug\net6.0\RegularExpressionS.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\refint\RegularExpressionS.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\RegularExpressionS.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RegularExpressionS\RegularExpressionS\obj\Debug\net6.0\ref\RegularExpressionS.dll

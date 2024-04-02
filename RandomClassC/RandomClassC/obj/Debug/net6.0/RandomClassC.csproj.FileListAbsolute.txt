@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\bin\Debug\net6.0\RandomClassC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\bin\Debug\net6.0\RandomClassC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\bin\Debug\net6.0\RandomClassC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\bin\Debug\net6.0\RandomClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\bin\Debug\net6.0\RandomClassC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\refint\RandomClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\RandomClassC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\RandomClassC\RandomClassC\obj\Debug\net6.0\ref\RandomClassC.dll

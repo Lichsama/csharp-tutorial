@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\bin\Debug\net6.0\StructsC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\bin\Debug\net6.0\StructsC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\bin\Debug\net6.0\StructsC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\bin\Debug\net6.0\StructsC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\bin\Debug\net6.0\StructsC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\refint\StructsC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\StructsC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\StructsC\StructsC\obj\Debug\net6.0\ref\StructsC.dll

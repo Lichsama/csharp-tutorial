@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\bin\Debug\net6.0\MathClassC.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\bin\Debug\net6.0\MathClassC.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\bin\Debug\net6.0\MathClassC.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\bin\Debug\net6.0\MathClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\bin\Debug\net6.0\MathClassC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\refint\MathClassC.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\MathClassC.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MathClassC\MathClassC\obj\Debug\net6.0\ref\MathClassC.dll

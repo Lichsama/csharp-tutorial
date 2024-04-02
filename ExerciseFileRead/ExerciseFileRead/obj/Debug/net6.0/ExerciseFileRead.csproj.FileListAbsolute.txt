@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\bin\Debug\net6.0\ExerciseFileRead.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\bin\Debug\net6.0\ExerciseFileRead.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\bin\Debug\net6.0\ExerciseFileRead.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\bin\Debug\net6.0\ExerciseFileRead.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\bin\Debug\net6.0\ExerciseFileRead.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\refint\ExerciseFileRead.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ExerciseFileRead.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ExerciseFileRead\ExerciseFileRead\obj\Debug\net6.0\ref\ExerciseFileRead.dll
