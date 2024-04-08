@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\bin\Debug\net6.0\NullablesE.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\bin\Debug\net6.0\NullablesE.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\bin\Debug\net6.0\NullablesE.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\bin\Debug\net6.0\NullablesE.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\bin\Debug\net6.0\NullablesE.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\refint\NullablesE.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\NullablesE.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\NullablesE\NullablesE\obj\Debug\net6.0\ref\NullablesE.dll

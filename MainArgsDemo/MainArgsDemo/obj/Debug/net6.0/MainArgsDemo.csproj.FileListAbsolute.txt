@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\bin\Debug\net6.0\MainArgsDemo.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\bin\Debug\net6.0\MainArgsDemo.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\bin\Debug\net6.0\MainArgsDemo.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\bin\Debug\net6.0\MainArgsDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\bin\Debug\net6.0\MainArgsDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\refint\MainArgsDemo.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\MainArgsDemo.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\MainArgsDemo\MainArgsDemo\obj\Debug\net6.0\ref\MainArgsDemo.dll

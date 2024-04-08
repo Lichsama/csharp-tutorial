@@ -1,0 +1,14 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\bin\Debug\net6.0\ParsingGame-regulerexpression.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\bin\Debug\net6.0\ParsingGame-regulerexpression.deps.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\bin\Debug\net6.0\ParsingGame-regulerexpression.runtimeconfig.json
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\bin\Debug\net6.0\ParsingGame-regulerexpression.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\bin\Debug\net6.0\ParsingGame-regulerexpression.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.AssemblyInfoInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.AssemblyInfo.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\refint\ParsingGame-regulerexpression.dll
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ParsingGame-regulerexpression.genruntimeconfig.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\ParsingGame-regulerexpression\ParsingGame-regulerexpression\obj\Debug\net6.0\ref\ParsingGame-regulerexpression.dll
